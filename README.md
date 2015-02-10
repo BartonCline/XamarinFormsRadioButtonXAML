@@ -3,7 +3,8 @@ XamarinFormsRadioButtonXAML
 
 Radio button and Radio Group for Xamarin.Forms just works like [Picker](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.Picker)  and it is bindable in XAML. 
 
-Nice. I've got fixes that I hope to push, if I ever get any spare time.
+[[[Nice. I've got fixes that I hope to push, if I ever get any spare time.]]]
+
 This Sample demonstrated using MVVM design pattern. 
 
 it is an extension to (https://github.com/XForms/Xamarin-Forms-Labs)
